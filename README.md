@@ -7,7 +7,7 @@ Website hỗ trợ đặt vé xem phim trực tuyến, cho phép:
 - Quản trị viên quản lý phim, người dùng, khuyến mãi, doanh thu
 
 ## Môn học
-Phân tích thiết kế hệ thống - Quản lý dự án phần mềm.
+Phân tích thiết kế hướng đối tượng - Quản lý dự án phần mềm.
 
 ## Thông Tin Thành Viên Nhóm
 
