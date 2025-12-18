@@ -1,4 +1,4 @@
-# HỆ THỐNG ĐẶT VÉ XEM PHIM CGV
+# 🎬 HỆ THỐNG ĐẶT VÉ XEM PHIM CGV
 
 ## Mô tả
 Website hỗ trợ đặt vé xem phim trực tuyến, cho phép:
