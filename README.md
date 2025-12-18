@@ -13,7 +13,7 @@
 | 1 | Nguyễn Thị Hoài Linh | Product Owner |
 | 2 | Ngô Trần Khánh Phương | Scrum Master |
 | 3 | Trịnh Duy Huy | Developer |
-| 4 | Nguyễn Phúc Thuần | Developer / Tester |
+| 4 | Nguyễn Phúc Thuần | Developer |
 
 ---
 
